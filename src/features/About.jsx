@@ -36,14 +36,14 @@ const About = () => {
         <p className="about-text mt-3">
           I'm a passionate 
           <span className="highlight"> Frontend & React Developer</span> 
-          helping businesses turn ideas into 
+           helping businesses turn ideas into 
           <span className="highlight"> clean, fast, and responsive</span> 
-          web experiences.
+           web experiences.
           <br /><br />
           I specialize in building high-quality user interfaces using 
-          <span className="highlight"> React, JavaScript, HTML, CSS, and Bootstrap</span>.
+          <span className="highlight">  React, JavaScript, HTML, CSS, and Bootstrap</span>.
           I focus on performance, responsive layouts, and delivering a 
-          <span className="highlight"> smooth user experience</span> that works across all devices.
+          <span className="highlight">  smooth user experience</span> that works across all devices.
           <br /><br />
           I also have solid MERN stack knowledge, enabling me to handle both
           frontend and full-stack projects when required.
