@@ -17,7 +17,7 @@ function Brand() {
     <div className="container py-5">
           <div className="row align-items-center">
     
-            {/* Left Content */}
+            
             <div className="col-md-6">
               <p className="intro fs-5">
                 Hi, I’m <strong>Pitaka Ramyakrishna</strong>
@@ -47,7 +47,7 @@ function Brand() {
               </div>
             </div>
     
-            {/* Right Image */}
+            
             <div className="col-md-6 text-center">
               <img
                 src={alogo}
